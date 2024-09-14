@@ -1,0 +1,47 @@
+{
+    "coord": {
+        "lon": -16.2533,
+        "lat": 14.1825
+    },
+    "weather": [
+        {
+            "id": 501,
+            "main": "Rain",
+            "description": "moderate rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 30.73,
+        "feels_like": 35.26,
+        "temp_min": 30.73,
+        "temp_max": 30.73,
+        "pressure": 1011,
+        "humidity": 64,
+        "sea_level": 1011,
+        "grnd_level": 1010
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.63,
+        "deg": 171,
+        "gust": 3.57
+    },
+    "rain": {
+        "1h": 1.76
+    },
+    "clouds": {
+        "all": 86
+    },
+    "dt": 1726329656,
+    "sys": {
+        "country": "SN",
+        "sunrise": 1726296833,
+        "sunset": 1726340837
+    },
+    "timezone": 0,
+    "id": 2250805,
+    "name": "Kaolack",
+    "cod": 200
+}

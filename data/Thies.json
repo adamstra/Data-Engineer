@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": -17.1061,
+        "lat": 14.8342
+    },
+    "weather": [
+        {
+            "id": 211,
+            "main": "Thunderstorm",
+            "description": "thunderstorm",
+            "icon": "11d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 29.36,
+        "feels_like": 36.36,
+        "temp_min": 29.36,
+        "temp_max": 29.36,
+        "pressure": 1011,
+        "humidity": 84,
+        "sea_level": 1011,
+        "grnd_level": 1007
+    },
+    "visibility": 8000,
+    "wind": {
+        "speed": 4.12,
+        "deg": 280
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1726329621,
+    "sys": {
+        "type": 1,
+        "id": 2410,
+        "country": "SN",
+        "sunrise": 1726297028,
+        "sunset": 1726341052
+    },
+    "timezone": 0,
+    "id": 2244802,
+    "name": "Thi\u00e8s",
+    "cod": 200
+}

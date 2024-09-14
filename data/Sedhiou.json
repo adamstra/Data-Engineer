@@ -1,0 +1,47 @@
+{
+    "coord": {
+        "lon": -15.5569,
+        "lat": 12.7081
+    },
+    "weather": [
+        {
+            "id": 501,
+            "main": "Rain",
+            "description": "moderate rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 28.16,
+        "feels_like": 33.35,
+        "temp_min": 28.16,
+        "temp_max": 28.16,
+        "pressure": 1011,
+        "humidity": 85,
+        "sea_level": 1011,
+        "grnd_level": 1008
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.52,
+        "deg": 210,
+        "gust": 6.16
+    },
+    "rain": {
+        "1h": 1.52
+    },
+    "clouds": {
+        "all": 64
+    },
+    "dt": 1726329655,
+    "sys": {
+        "country": "SN",
+        "sunrise": 1726296689,
+        "sunset": 1726340648
+    },
+    "timezone": 0,
+    "id": 2245704,
+    "name": "S\u00e9dhiou",
+    "cod": 200
+}

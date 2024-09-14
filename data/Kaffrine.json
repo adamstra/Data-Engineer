@@ -1,0 +1,47 @@
+{
+    "coord": {
+        "lon": -15.5508,
+        "lat": 14.1059
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 31.41,
+        "feels_like": 36.29,
+        "temp_min": 31.41,
+        "temp_max": 31.41,
+        "pressure": 1011,
+        "humidity": 62,
+        "sea_level": 1011,
+        "grnd_level": 1007
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.65,
+        "deg": 175,
+        "gust": 3.42
+    },
+    "rain": {
+        "1h": 0.45
+    },
+    "clouds": {
+        "all": 66
+    },
+    "dt": 1726329655,
+    "sys": {
+        "country": "SN",
+        "sunrise": 1726296666,
+        "sunset": 1726340668
+    },
+    "timezone": 0,
+    "id": 2251007,
+    "name": "Kaffrine",
+    "cod": 200
+}

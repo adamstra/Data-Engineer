@@ -1,0 +1,47 @@
+{
+    "coord": {
+        "lon": -14.95,
+        "lat": 12.8833
+    },
+    "weather": [
+        {
+            "id": 501,
+            "main": "Rain",
+            "description": "moderate rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 28.2,
+        "feels_like": 33.65,
+        "temp_min": 28.2,
+        "temp_max": 28.2,
+        "pressure": 1011,
+        "humidity": 86,
+        "sea_level": 1011,
+        "grnd_level": 1010
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.92,
+        "deg": 209,
+        "gust": 5.16
+    },
+    "rain": {
+        "1h": 1.49
+    },
+    "clouds": {
+        "all": 70
+    },
+    "dt": 1726329655,
+    "sys": {
+        "country": "SN",
+        "sunrise": 1726296540,
+        "sunset": 1726340505
+    },
+    "timezone": 0,
+    "id": 2249782,
+    "name": "Kolda",
+    "cod": 200
+}

@@ -1,0 +1,47 @@
+{
+    "coord": {
+        "lon": -12.1743,
+        "lat": 12.5579
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 29.44,
+        "feels_like": 34.81,
+        "temp_min": 29.44,
+        "temp_max": 29.44,
+        "pressure": 1011,
+        "humidity": 75,
+        "sea_level": 1011,
+        "grnd_level": 998
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.14,
+        "deg": 288,
+        "gust": 2.71
+    },
+    "rain": {
+        "1h": 0.24
+    },
+    "clouds": {
+        "all": 96
+    },
+    "dt": 1726329655,
+    "sys": {
+        "country": "SN",
+        "sunrise": 1726295879,
+        "sunset": 1726339834
+    },
+    "timezone": 0,
+    "id": 2250645,
+    "name": "K\u00e9dougou",
+    "cod": 200
+}

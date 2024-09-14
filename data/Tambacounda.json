@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": -13.7586,
+        "lat": 13.7539
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 30.75,
+        "feels_like": 36.37,
+        "temp_min": 30.75,
+        "temp_max": 30.75,
+        "pressure": 1011,
+        "humidity": 68,
+        "sea_level": 1011,
+        "grnd_level": 1006
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.17,
+        "deg": 222,
+        "gust": 2.34
+    },
+    "clouds": {
+        "all": 62
+    },
+    "dt": 1726329656,
+    "sys": {
+        "country": "SN",
+        "sunrise": 1726296241,
+        "sunset": 1726340232
+    },
+    "timezone": 0,
+    "id": 2244991,
+    "name": "Tambacounda",
+    "cod": 200
+}

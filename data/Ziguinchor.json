@@ -1,0 +1,47 @@
+{
+    "coord": {
+        "lon": -16.2719,
+        "lat": 12.5833
+    },
+    "weather": [
+        {
+            "id": 501,
+            "main": "Rain",
+            "description": "moderate rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 28.53,
+        "feels_like": 33.28,
+        "temp_min": 28.53,
+        "temp_max": 28.53,
+        "pressure": 1011,
+        "humidity": 79,
+        "sea_level": 1011,
+        "grnd_level": 1010
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.78,
+        "deg": 192,
+        "gust": 5.45
+    },
+    "rain": {
+        "1h": 1.09
+    },
+    "clouds": {
+        "all": 99
+    },
+    "dt": 1726329656,
+    "sys": {
+        "country": "SN",
+        "sunrise": 1726296862,
+        "sunset": 1726340818
+    },
+    "timezone": 0,
+    "id": 2243940,
+    "name": "Ziguinchor",
+    "cod": 200
+}
