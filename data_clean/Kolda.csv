@@ -1,2 +1,2 @@
 city,temperature,humidity,pressure,weather_condition,wind_speed,wind_deg,clouds,latitude,longitude,rain_1h
-Kolda,28.2,86,1011,moderate rain,2.92,209,70,12.8833,-14.95,1.49
+Kolda,29.17,84,1013,scattered clouds,4.12,280,40,12.8833,-14.95,

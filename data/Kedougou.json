@@ -5,37 +5,38 @@
     },
     "weather": [
         {
-            "id": 500,
+            "id": 501,
             "main": "Rain",
-            "description": "light rain",
-            "icon": "10d"
+            "description": "moderate rain",
+            "icon": "10n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 29.44,
-        "feels_like": 34.81,
-        "temp_min": 29.44,
-        "temp_max": 29.44,
-        "pressure": 1011,
-        "humidity": 75,
-        "sea_level": 1011,
-        "grnd_level": 998
+        "temp": 29.32,
+        "feels_like": 36.32,
+        "temp_min": 29.32,
+        "temp_max": 29.32,
+        "pressure": 1012,
+        "humidity": 84,
+        "sea_level": 1012,
+        "grnd_level": 999
     },
     "visibility": 10000,
     "wind": {
-        "speed": 2.14,
-        "deg": 288,
-        "gust": 2.71
+        "speed": 0,
+        "deg": 0
     },
     "rain": {
-        "1h": 0.24
+        "1h": 1.18
     },
     "clouds": {
-        "all": 96
+        "all": 20
     },
-    "dt": 1726329655,
+    "dt": 1726343422,
     "sys": {
+        "type": 1,
+        "id": 2433,
         "country": "SN",
         "sunrise": 1726295879,
         "sunset": 1726339834

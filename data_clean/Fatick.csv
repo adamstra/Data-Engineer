@@ -1,2 +1,2 @@
 city,temperature,humidity,pressure,weather_condition,wind_speed,wind_deg,clouds,latitude,longitude,rain_1h
-Fatick,30.15,64,1011,light rain,5.38,231,100,14.3581,-16.5858,0.33
+Fatick,27.84,75,1012,broken clouds,4.56,223,77,14.3581,-16.5858,

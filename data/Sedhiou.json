@@ -5,36 +5,33 @@
     },
     "weather": [
         {
-            "id": 501,
-            "main": "Rain",
-            "description": "moderate rain",
-            "icon": "10d"
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 28.16,
-        "feels_like": 33.35,
-        "temp_min": 28.16,
-        "temp_max": 28.16,
-        "pressure": 1011,
-        "humidity": 85,
-        "sea_level": 1011,
-        "grnd_level": 1008
+        "temp": 24.68,
+        "feels_like": 25.68,
+        "temp_min": 24.68,
+        "temp_max": 24.68,
+        "pressure": 1013,
+        "humidity": 95,
+        "sea_level": 1013,
+        "grnd_level": 1010
     },
     "visibility": 10000,
     "wind": {
-        "speed": 3.52,
-        "deg": 210,
-        "gust": 6.16
-    },
-    "rain": {
-        "1h": 1.52
+        "speed": 2.24,
+        "deg": 203,
+        "gust": 7.58
     },
     "clouds": {
-        "all": 64
+        "all": 100
     },
-    "dt": 1726329655,
+    "dt": 1726343423,
     "sys": {
         "country": "SN",
         "sunrise": 1726296689,
